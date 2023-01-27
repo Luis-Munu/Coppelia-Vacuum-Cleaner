@@ -8,16 +8,6 @@
 
   <p align="center">
     Personal cleaner used to wipe the floor of CoppeliaSim environments
-    <br/>
-    <br/>
-    <a href="https://github.com/Valkam-Git/Coppelia-Vacuum-Cleaner"><strong>Explore the docs »</strong></a>
-    <br/>
-    <br/>
-    <a href="https://github.com/Valkam-Git/Coppelia-Vacuum-Cleaner">View Demo</a>
-    .
-    <a href="https://github.com/Valkam-Git/Coppelia-Vacuum-Cleaner/issues">Report Bug</a>
-    .
-    <a href="https://github.com/Valkam-Git/Coppelia-Vacuum-Cleaner/issues">Request Feature</a>
   </p>
 </p>
 
