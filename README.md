@@ -70,6 +70,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/Valkam-Git/C
 
 * **Valkam** - ** - [Valkam](https://github.com/Valkam-Git/) - **
 * **AGonzalezLoro** - ** - [AGonzalezLoro](https://github.com/AGonzalezLoro) - **
+* **zeta1201** - ** - [zeta1201](https://github.com/zeta1201) - **
 
 ## Acknowledgements
 
