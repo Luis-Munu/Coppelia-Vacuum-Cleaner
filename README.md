@@ -49,6 +49,7 @@ The project is based on many Robocomp related components that need to be install
  - [Giraff robot](https://github.com/robocomp/robocomp-giraff)
  - [Prebuilt environments](https://github.com/pbustos/beta-robotica-class)
  - [CoppeliaSim](https://www.coppeliarobotics.com/)
+ 
 It is quite tricky to install Robocomp correctly, therefore it is recommended to read the docs carefully.
 
 
